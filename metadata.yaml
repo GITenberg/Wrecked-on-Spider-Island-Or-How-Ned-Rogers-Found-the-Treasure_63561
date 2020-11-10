@@ -1,11 +1,14 @@
 _repo: Wrecked-on-Spider-Island-Or-How-Ned-Rogers-Found-the-Treasure_63561
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Graves, George E.
     alias: Graves, G. E.
     gutenberg_agent_id: '38734'
     url: http://www.gutenberg.org/2009/agents/38734
+covers:
+- cover_type: archival
+  image_path: 63561-h/images/cover.jpg
 creator:
   author:
     agent_name: Otis, James
@@ -18,6 +21,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49402
     - https://en.wikipedia.org/wiki/James_Otis_Kaler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63561#Wrecked-on-Spider-Island-Or-How-Ned-Rogers-Found-the-Treasure
 gutenberg_issued: '2020-10-27'
 gutenberg_type: Text
 identifiers:
