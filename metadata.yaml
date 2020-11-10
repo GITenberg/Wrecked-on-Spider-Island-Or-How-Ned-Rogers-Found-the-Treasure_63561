@@ -1,0 +1,44 @@
+_repo: Wrecked-on-Spider-Island-Or-How-Ned-Rogers-Found-the-Treasure_63561
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Graves, George E.
+    alias: Graves, G. E.
+    gutenberg_agent_id: '38734'
+    url: http://www.gutenberg.org/2009/agents/38734
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49402
+    - https://en.wikipedia.org/wiki/James_Otis_Kaler
+description: ''
+gutenberg_issued: '2020-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcsh 'Florida Keys (Fla.) -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- GITenberg
+title: Wrecked on Spider Island; Or, How Ned Rogers Found the Treasure
+url: http://www.gutenberg.org/ebooks/63561
